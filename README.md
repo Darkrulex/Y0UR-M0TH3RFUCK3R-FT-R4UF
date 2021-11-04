@@ -1,4 +1,4 @@
-# 𝐓𝐇𝐄 𝐋𝐀𝐍𝐃𝐒𝐇𝐈𝐊𝐀𝐑𝐈𝐂𝐇𝐎𝐔𝐄𝐗 𝐑𝐀𝐔𝐅 𝐀𝐋𝐈 𝐇𝐄𝐑𝐄 
+# 𝐓𝐇𝐄 𝐋𝐀𝐍𝐃𝐒𝐇𝐈𝐊𝐀𝐑𝐈𝐂𝐇𝐎𝐔𝐃𝐄𝐗 𝐑𝐀𝐔𝐅 𝐀𝐋𝐈 𝐇𝐄𝐑𝐄 
 ```
 * This Tool is about of Freindlist/Public Facebook cloning.
 * You can cloning with Fast method and also Freindlist.Public ID Cloning.
