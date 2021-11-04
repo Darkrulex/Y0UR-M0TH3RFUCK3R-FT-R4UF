@@ -7,16 +7,16 @@
 
 # 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒
 ```
-* apt update -y
-* apt upgrade
-* apt install git -y
-* apt install python2 -y
-* rm -rf Y0UR-M0TH3RFUCK3R-FT-R4UF
-* git clone https://github.com/Darkrulex/Y0UR-M0TH3RFUCK3R-FT-R4UF
-* cd Y0UR-M0TH3RFUCK3R-FT-R4UF
-* pip2 install requests
-* pip2 install mechanize
-* python2 ShikariLan.py
+ apt update -y
+ apt upgrade
+ apt install git -y
+ apt install python2 -y
+ rm -rf Y0UR-M0TH3RFUCK3R-FT-R4UF
+ git clone https://github.com/Darkrulex/Y0UR-M0TH3RFUCK3R-FT-R4UF
+ cd Y0UR-M0TH3RFUCK3R-FT-R4UF
+ pip2 install requests
+ pip2 install mechanize
+ python2 ShikariLan.py
 ```
 
 # 𝐓𝐄𝐒𝐓𝐄𝐃 𝐎𝐍
