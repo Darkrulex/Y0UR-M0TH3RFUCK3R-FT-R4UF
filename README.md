@@ -16,7 +16,7 @@
  cd Y0UR-M0TH3RFUCK3R-FT-R4UF
  pip2 install requests
  pip2 install mechanize
- python2 Dark-Boii.py
+ python2 Dark-Rules.py
 ```
 
 # 𝐓𝐄𝐒𝐓𝐄𝐃 𝐎𝐍
