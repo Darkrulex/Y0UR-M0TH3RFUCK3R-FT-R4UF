@@ -14,9 +14,12 @@
  rm -rf Y0UR-M0TH3RFUCK3R-FT-R4UF
  git clone https://github.com/Darkrulex/Y0UR-M0TH3RFUCK3R-FT-R4UF
  cd Y0UR-M0TH3RFUCK3R-FT-R4UF
+ pip2 install nodjes
+ pip2 install bs4
+ pip install lolcat
  pip2 install requests
  pip2 install mechanize
- python2 Rauf-Jutt.py
+ python2 RaufUnbeatable.py
 ```
 
 # 𝐓𝐄𝐒𝐓𝐄𝐃 𝐎𝐍
